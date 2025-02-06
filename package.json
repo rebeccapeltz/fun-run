@@ -1,5 +1,5 @@
 {
-  "name": "fun-run",
+  "name": "@rebeccapeltz/fun-run",
   "version": "1.0.0",
   "description": "fun-runrun provides a wrapper that runs a function and measures the time elapsed",
   "main": "index.js",
